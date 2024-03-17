@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+### VS Code ###
+.vscode/
+
+### Some additional ignores (sort later)
+*.DS_Store
+*.sw?
+.#*
+*#
+*~
+.classpath
+.project
+.settings
+#bin
+build
+target
